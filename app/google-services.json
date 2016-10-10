@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "605727414174",
+    "firebase_url": "https://test-d61cd.firebaseio.com",
+    "project_id": "test-d61cd",
+    "storage_bucket": "test-d61cd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:605727414174:android:062512088350a82f",
+        "android_client_info": {
+          "package_name": "com.toizer.maor1t.chatfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "605727414174-9e4tp70gog4q2es2s60u2npoku9k24fs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.toizer.maor1t.chatfirebase",
+            "certificate_hash": "21D89C8BF19E95E7593F0BF63A568B9A9BB4BBC9"
+          }
+        },
+        {
+          "client_id": "605727414174-0gkrsd1ttfc8isk4hhq06k0p9h6gp1nh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXApl6Ot6CTJIcOnOwp7vr06MtGATr5S8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "605727414174-0gkrsd1ttfc8isk4hhq06k0p9h6gp1nh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
